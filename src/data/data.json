@@ -14,47 +14,178 @@
   },
   "Gallery": [
     {
-      "title": "Title",
+      "title": "Archivos PDF",
+      "text1": "World Health Organization. (2021). Impacto del cambio climático en la salud. https://www.who.int/publications/i/item/impacto-cambio-climatico-salud",
+      "text2": "Sedgwick. E.K.(Autor) (2003)(año de publicación). Touching feeling: Affect, pedagogy, perfomativity.  Duke University Press.http://www.bu.edu/honoringeve/files/2009/09/paranoid-reading-and-reparative-reading.pdf (URL o DOI)",
+      "description": "Description",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg"
     },
     {
-      "title": "Title",
+      "title": "Publicación Instagram",
+      "text1": "Jiménez, Y. [@yeison_jimenez]. (2022, agosto 17). Comunicado de prensa sobre la salud de Dan Reynolds [Fotografía]. Instagram.https://www.instagram.com/p/CdoxukCl/",
+      "text2": "En una reciente publicación de Instagram, Gordon (2021) aseguró que “el 60% de los estudiantes universitarios no consiguen completar el proceso de titulación”.",
+      "description": "Description",
       "largeImage": "img/portfolio/02-large.jpg",
       "smallImage": "img/portfolio/02-small.jpg"
     },
     {
-      "title": "Title",
+      "title": "Video de TikTok",
+      "text1": "Juca, F. [@fernandojucamaldonado]. (2022, octubre 1). Citar en APA7 con Comunicados Personales. #Citar #apa7 #apa7ma [Video]. TikTok.https://www.tiktok.com/@fernandojucamaldonado/video/7149561525445856517",
+      "text2": "Parking (2018) comentó mediante un video de TikTok que “algunos mercados son lugares físicos donde se reúnen compradores y vendedores”.",
+      "description": "Description",
       "largeImage": "img/portfolio/03-large.jpg",
       "smallImage": "img/portfolio/03-small.jpg"
     },
     {
-      "title": "Title",
+      "title": "Video de You Tube",
+      "text1": "Canal REDMÁS. (2017, septiembre 19). Antanas Mockus en Confesiones [Vídeo]. Youtube.https://youtu.be/de_4nTCHtJs",
+      "text2": "Geron (2022) dio a conocer en un video de YouTube, que 'la tecnología es uno de los pilares más importantes en la evolución de la humanidad'. (13m27s).",
+      "description": "Description",
       "largeImage": "img/portfolio/04-large.jpg",
       "smallImage": "img/portfolio/04-small.jpg"
     },
     {
-      "title": "Title",
+      "title": "Artículo de wikipedia",
+      "text1": "Espacio exterior [En Wikipedia]. (2024, Octubre 3). Recuperado de https://es.wikipedia.org/wiki/Espacio_exter ior ",
+      "text2": "Según el artículo de Wikipedia sobre el espacio exterior ('Espacio exterior' , 2024), la exploración espacial ha avanzado significativamente.",
+      "description": "Description",
       "largeImage": "img/portfolio/05-large.jpg",
       "smallImage": "img/portfolio/05-small.jpg"
     },
     {
-      "title": "Title",
+      "title": "Publicación en X (Twitter)",
+      "text1": "Sheinbaum, C. [@Claudiashein]. (2023, Abril 10). Publicación sobre evento político [Tuit]. Twitter de https://x.com/Claudiashein/status/1842034412499730582 ",
+      "text2": "Sheinbaum (2023) mencionó el evento político en su cuenta de Twitter el 10 de abril.",
+      "description": "Description",
       "largeImage": "img/portfolio/06-large.jpg",
       "smallImage": "img/portfolio/06-small.jpg"
     },
     {
-      "title": "Title",
+      "title": "Publicación en Facebook",
+      "text1": "Zuckerberg, M. [@zuck]. (2024, Septiembre 21). Felicitaciones a Billie Joe, Tré y Mike por el 20.º aniversario de American Idiot y el 30.º aniversario de Dookie [Publicación de Facebook]. Recuperado de h  ttps://www.facebook.com/zuck/posts/pfbid0urRG5cbwBRqMJy gug8t1yrvK56mZLMKziKoBbeNThA5e1UUPMjuj7Y2cyJeFUZa4l? locale=es_LA",
+      "text2": "En una publicación reciente, Zuckerberg (2024) felicitó a los miembros de Green Day por sus aniversarios musicales",
+      "description": "Description",
       "largeImage": "img/portfolio/07-large.jpg",
       "smallImage": "img/portfolio/07-small.jpg"
     },
     {
-      "title": "Title",
+      "title": "Libros (con autor)",
+      "text1": "González, P. (2019). Teorías del aprendizaje y su evolución. Editorial Universitaria.",
+      "text2": "Según González (2019), la teoría del aprendizaje ha evolucionado considerablemente en los últimos años.",
+      "description": "Description",
       "largeImage": "img/portfolio/08-large.jpg",
       "smallImage": "img/portfolio/08-small.jpg"
     },
     {
-      "title": "Title",
+      "title": "Libros (con editor)",
+      "text1": "Pérez, J. (Ed.). (2021). Estudios contemporáneos en psicología. Editorial Universitaria.",
+      "text2": "Según Pérez (Ed., 2021), los estudios sobre psicología contemporánea han avanzado considerablemente.",
+      "description": "Description",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Libros (Electronicos)",
+      "text1": "Martínez, R. (2020). La globalización y su impacto en la educación. Editorial Digital. https://doi.org/10.1234/abcd1234",
+      "text2": "Según Martínez (2020), la globalización ha influido en la educación de formas inesperadas. ",
+      "description": "Description",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Trabajo de tesis",
+      "text1": "González, M. (2024). Estudio sobre la educación virtual en tiempos de pandemia (Tesis doctoral). Universidad de Madrid. https://repositorio.unimadrid.edu",
+      "text2": "Según Felipe : “El interés por la vida y el envejecimiento ha sido una constante en la historia de la humanidad, a medida que el hombre madura y se transforma interiormente reacciona de manera diferente ante las influencias culturales y sociales, sobrevienen cambios psicológicos que influyen en los pensamientos, sentimientos, creencias, valores, actitudes, conducta y personalidad” . (García, F. 2014)",
+      "description": "Description",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    },
+    {
+      "title": "Artículos científicos",
+      "text1": "Garcia,J.(2020.Impacto del cambio climático en la biodiversidad.*Revista de ciencias ambientales , 35(3), 45-60.https://doi.org/10.1234/rca.2020.002",
+      "text2": "(Garcia, 2020)",
+      "description": "Description",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    },
+    {
+      "title": "Enciclopedia",
+      "text1": "Mendoza,P.(2018). Biología marina. En R. Perez (Ed), **Enciclopedia de ciencias naturales** (3ra ed., pp 120-135). Editorial Natural",
+      "text2": "(Mendoza,2018)",
+      "description": "Description",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    },
+    {
+      "title": "Periódico",
+      "text1": "Lopez, M. (2021, 15 de agosto). Nuevas Políticas ambientales en la región. **El Diario Ecologico**.https://eldiarioecologico.com/politicas-ambientales-2021",
+      "text2": "(Lopez, 2021)",
+      "description": "Description",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    },
+    {
+      "title": "Diccionarios",
+      "text1": "Real Academia Española. (2014). Diccionario de la lengua española (23.ª ed.). Recuperado de https://dle.rae.es",
+      "text2": "Según el Diccionario de la lengua española (2014), la palabra “paradigma” se refiere a un ejemplo o modelo.",
+      "description": "Description",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    },
+    {
+      "title": "Películas y Canción",
+      "text1": "Cameron, J. (Productor), & Cameron, J. (Director). (1997). Titanic [Película / Canción]. 20th Century Fox.",
+      "text2": "En Titanic (Cameron, 1997), se exploran temas de amor y sacrificio",
+      "description": "Description",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    },
+    {
+      "title": "Fotografías",
+      "text1": "Smith, J. (2019). Nubes sobre el mar [Fotografía]. En M. Davis (Ed.), Fotografía contemporánea (p. 45). Editorial Fotográfica.",
+      "text2": "(Smith, 2019, p. 45)",
+      "description": "Description",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    },
+    {
+      "title": "Páginas web",
+      "text1": "Tendencias de tecnología para el 2023. (2021, diciembre 15). Tech Innovators. https://www.techinnovators.com/tendencias2023",
+      "text2": "La investigación muestra una tendencia creciente en el uso de la tecnología (“Tendencias de tecnología”, 2021).",
+      "description": "Description",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    },
+    {
+      "title": "Artículo web (Sin autor)",
+      "text1": "La nueva era de la realidad aumentada” (2024). Tech Innovations. https://www.techinnovations.com/ur-realidad-aumentada",
+      "text2": "“Cómo proteger tu privacidad en línea” (2023). TechGuru.",
+      "description": "Description",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    },
+    {
+      "title": "Artículo web (Sin fecha)",
+      "text1": "Gómez, L. (2021). Psicología social: Teorías y aplicaciones. Editorial Universitaria.",
+      "text2": "Según Rodríguez (2022), la gestión eficaz del tiempo es clave para aumentar la productividad.",
+      "description": "Description",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    },
+    {
+      "title": "Artículo web (Sin titulo)",
+      "text1": "Fernández, A. (2019). Teorías del aprendizaje. En R. Martínez (Ed.), Fundamentos de la educación (pp. 45-67). Editorial Educativa.",
+      "text2": "La gestión eficaz del tiempo es clave para aumentar la productividad (Rodríguez, 2022).",
+      "description": "Description",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    },
+    {
+      "title": "Artículo web (Sin titulo)",
+      "text1": "Ruiz, M., & Soto, P. (2020). Efectos de la tecnología en la atención. Revista de Psicología Aplicada, 15(3), 123-145. https://doi.org/10.1234/rpa.2020.0023",
+      "text2": "La Organización Mundial de la Salud (OMS, 2020) destaca la importancia de la vacunación para prevenir enfermedades infecciosas.",
+      "description": "Description",
       "largeImage": "img/portfolio/09-large.jpg",
       "smallImage": "img/portfolio/09-small.jpg"
     }
