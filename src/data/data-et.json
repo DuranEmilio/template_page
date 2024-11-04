@@ -1,0 +1,215 @@
+{
+  "Header": {
+    "title": "Inteligencia Artificial y la Línea Ética",
+    "paragraph": "¿Dónde Deberíamos Trazar?"
+  },
+  "About": [
+    {
+      "title": "¿Qué es la inteligencia artificial?",
+      "paragraph": "La inteligencia artificial (IA) es un campo de la informática que busca crear sistemas o programas capaces de realizar tareas que normalmente requieren inteligencia humana, como el reconocimiento de voz, la toma de decisiones y el aprendizaje. La IA simula procesos cognitivos para resolver problemas complejos de manera autónoma y eficiente.",
+      "list-theme": "¿Por que usarla?",
+      "Why": [
+        "Simula procesos de inteligencia humana en sistemas informáticos.",
+        "Realiza tareas complejas de manera autónoma.",
+        "Reconoce patrones y toma decisiones basadas en datos.",
+        "Facilita el reconocimiento de voz y la visión por computadora.",
+        "Automatiza tareas para mejorar la eficiencia"
+      ]
+    },
+    {
+      "title": "¿Cómo puede la IA potenciar tu página web?",
+      "paragraph": "La inteligencia artificial está transformando la experiencia en línea, ofreciendo a los usuarios interacciones más personalizadas, eficientes y atractivas. Aplicada a páginas web, la IA permite optimizar contenidos, mejorar la atención al cliente y aumentar la conversión de visitas en ventas.",
+      "list-theme": "¿Que puede lograr mi pagina?",
+      "Why": [
+        "Personaliza el contenido para cada usuario.",
+        "Mejora la experiencia de navegación.",
+        "Optimiza la búsqueda de productos o servicios.",
+        "Automatiza respuestas a preguntas frecuentes.",
+        "Analiza patrones de comportamiento para mejorar la web."
+      ]
+    }
+  ],
+  "Gallery": [
+    {
+      "title": "Formato en Peliculas.",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Formato en Videos.",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Formato en Documentos.",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Experimentacion",
+      "text": "Durante esta etapa se busca refutar o comprobar la hipótesis planteada anteriormente buscando tomar en cuenta los elementos que hay a su disposición. Se trata de simular el fenómeno o en este caso la problemática. (Unir, V. 2024, August 30)"
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Analisis de datos.",
+      "text": "Se centra en poder llegar a una conclusión basándose en lo que ya es conocido por el desarrollador, la forma en la que se recopilan este tipo de datos está ligada a la forma en la que está planeada usarse y analizarse, también asegurarse de que al momento de recopilar información sea de forma precisa en la que se pueda confiar, para esto existen varios métodos de recopilación de datos (Análisis de Datos | QuestionPro, s. f.)"
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Citado de Música",
+      "text": "Si recuperó la letra directamente de escuchar la canción, haga referencia a la canción usando el siguiente ejemplo general: ReferenciaApellido, N. (año). Título de la canción [Canción]."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Metodo cientifico",
+      "text": "Al aplicar el método científico en formato APA, comienza con un título conciso. En la introducción, presenta el problema de investigación y su relevancia. En el método, detalla el diseño, participantes y materiales. Los resultados deben ser claros y concisos, seguidos de una discusión que interprete los hallazgos. Finalmente, incluye una lista de referencias en el formato adecuado."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Emilio Duran",
+      "job": "Diseñador"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Gael Orozco",
+      "job": "Diseñador"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Isaac Navarrete",
+      "job": "Investigador"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Ulises Moreno",
+      "job": "Investigador"
+    },
+    {
+      "img": "img/team/05.jpg",
+      "name": "Abraham Silva",
+      "job": "Investigador"
+    },
+    {
+      "img": "img/team/06.jpg",
+      "name": "Eduardo Miranda",
+      "job": "Investigador"
+    },
+    {
+      "img": "img/team/07.jpg",
+      "name": "Tomas Rodriguez",
+      "job": "Investigador"
+    },
+    {
+      "img": "img/team/08.jpg",
+      "name": "Fernanda",
+      "job": "Investigador"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "MMMM",
+      "text": "MMMM"
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "MMM",
+      "text": "mmm"
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Formulación de hipótesis",
+      "text": "Plantea la posible explicación de forma científica y construye el método experimental que será de ayuda para probar o refutar dicha hipótesis, toda hipótesis sirve para iniciar una investigación, sin ello no serían más que meras conjeturas (Equipo editorial, Etecé. (2022, 2 febrero)"
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Demostrar investigación",
+      "text": "Muestra que se ha realizado una investigación completa."
+    }
+  ]
+}

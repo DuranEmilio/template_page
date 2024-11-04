@@ -28,9 +28,8 @@ const App = () => {
       <Navigation />
       <Header data={landingPageData.Header} />
       <Features data={landingPageData.Features} />
-      <div style={{ display: "flex", flexDirection: 'column', padding: '100px 0' }}>
-        {landingPageData.About && landingPageData.About.map((item, index) => (<About data={item} key={index} index={index} />))}
-      </div>
+      <About data={landingPageData.About} />
+      <Gallery data={landingPageData.Gallery} />
       <Team data={landingPageData.Team} />
       <Contact data={landingPageData.Contact} />
     </div>
