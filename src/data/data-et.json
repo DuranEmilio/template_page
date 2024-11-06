@@ -110,34 +110,28 @@
   ],
   "Testimonials": [
     {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "La IA comienza con grandes volúmenes de datos que le proporcionan ejemplos variados.",
+      "name": "Datos"
     },
     {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "Procesa estos datos ajustando sus parámetros internos a través de ejemplos.",
+      "name": "Entrenamiento"
     },
     {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "Aprende a reconocer patrones clave entre las entradas y las salidas esperadas.",
+      "name": "Identificación de Patrones"
     },
     {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "Repite el proceso, minimizando errores para mejorar la precisión de sus predicciones.",
+      "name": "Optimización"
     },
     {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "Repite el proceso, minimizando errores para mejorar la precisión de sus predicciones.",
+      "name": "Generalización"
     },
     {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "Realiza tareas como clasificar, recomendar o generar contenido, basándose en lo que ha aprendido.",
+      "name": "Aplicación"
     }
   ],
   "Team": [
@@ -182,34 +176,30 @@
       "job": "Investigador"
     }
   ],
-  "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+  "Contact": {    
+    "phone": "+52 312 303 1610",
+    "email": "durantelleze@gmail.com"
   },
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "MMMM",
-      "text": "MMMM"
+      "title": "Recopilacion de datos",
+      "text": "Mejora la recopilación de datos al automatizar su recolección y análisis."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "MMM",
-      "text": "mmm"
+      "title": "Comunicación",
+      "text": "Optimiza la comunicación al personalizar mensajes y automatizar respuestas."
     },
     {
       "icon": "fa fa-group",
-      "title": "Formulación de hipótesis",
-      "text": "Plantea la posible explicación de forma científica y construye el método experimental que será de ayuda para probar o refutar dicha hipótesis, toda hipótesis sirve para iniciar una investigación, sin ello no serían más que meras conjeturas (Equipo editorial, Etecé. (2022, 2 febrero)"
+      "title": "Trabajo en equipo",
+      "text": "potencia el trabajo en equipo al facilitar la colaboración, automatizar tareas, mejorar la organización."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Demostrar investigación",
-      "text": "Muestra que se ha realizado una investigación completa."
+      "title": "Creatividad",
+      "text": "impulsa la creatividad al generar ideas, ofrecer inspiración, automatizar tareas repetitivas y ampliar posibilidades."
     }
   ]
 }

@@ -56,3 +56,22 @@
   justify-content: center;
   align-items: center;
 }
+
+.layout-testimonials {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  width: 100%;
+  max-width: 1440px;
+  gap: 1.2rem;
+  padding: 1.2rem;
+}
+
+.block-testimonial {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 1.6rem;
+  padding: 1.2rem;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}

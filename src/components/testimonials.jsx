@@ -1,29 +1,29 @@
 import React from "react";
 
 export const Testimonials = (props) => {
+  const Block = ({ data }) => {
+    return (
+      <div className="block-testimonial">
+        <p>{data.name}</p>
+        <span>{data.text}</span>
+      </div>
+    )
+  }
+
   return (
     <div id="testimonials">
       <div className="container">
         <div className="section-title text-center">
-          <h2>What our clients say</h2>
-        </div>
-        <div className="row">
-          {props.data
-            ? props.data.map((d, i) => (
-                <div key={`${d.name}-${i}`} className="col-md-4">
-                  <div className="testimonial">
-                    <div className="testimonial-image">
-                      {" "}
-                      <img src={d.img} alt="" />{" "}
-                    </div>
-                    <div className="testimonial-content">
-                      <p>"{d.text}"</p>
-                      <div className="testimonial-meta"> - {d.name} </div>
-                    </div>
-                  </div>
-                </div>
-              ))
-            : "loading"}
+          <h2>Como funciona un modelo de IA</h2>
+          <div className="layout-testimonials">
+            {
+              props.data
+                ? props.data.map((d, i) => (
+                  <Block key={`${d.name}-${i}`} data={d} />
+                ))
+                : "Loading..."
+            }
+          </div>
         </div>
       </div>
     </div>
