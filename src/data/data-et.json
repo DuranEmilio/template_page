@@ -27,87 +27,22 @@
         "Automatiza respuestas a preguntas frecuentes.",
         "Analiza patrones de comportamiento para mejorar la web."
       ]
+    },
+    {
+      "title": "La IA en la vida diaria",
+      "paragraph": "La inteligencia artificial está cada vez más integrada en nuestra vida diaria, en formas que van desde asistentes de voz hasta sistemas de recomendación personalizados.",
+      "list-theme": "¿Qué ventajas tiene?",
+      "Why": [
+        "Automatización y Eficiencia",
+        "Mejora la experiencia de navegación.",
+        "Asistencia Personalizada.",
+        "Mejoras en la Seguridad y Conveniencia.",
+        "Educación y Aprendizaje Personalizado.",
+        "Atención Médica y Bienestar"
+      ]
     }
   ],
-  "Gallery": [
-    {
-      "title": "Formato en Peliculas.",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
-    },
-    {
-      "title": "Formato en Videos.",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
-    },
-    {
-      "title": "Formato en Documentos.",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
-    }
-  ],
-  "Services": [
-    {
-      "icon": "fa fa-wordpress",
-      "name": "Experimentacion",
-      "text": "Durante esta etapa se busca refutar o comprobar la hipótesis planteada anteriormente buscando tomar en cuenta los elementos que hay a su disposición. Se trata de simular el fenómeno o en este caso la problemática. (Unir, V. 2024, August 30)"
-    },
-    {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Analisis de datos.",
-      "text": "Se centra en poder llegar a una conclusión basándose en lo que ya es conocido por el desarrollador, la forma en la que se recopilan este tipo de datos está ligada a la forma en la que está planeada usarse y analizarse, también asegurarse de que al momento de recopilar información sea de forma precisa en la que se pueda confiar, para esto existen varios métodos de recopilación de datos (Análisis de Datos | QuestionPro, s. f.)"
-    },
-    {
-      "icon": "fa fa-cloud-download",
-      "name": "Citado de Música",
-      "text": "Si recuperó la letra directamente de escuchar la canción, haga referencia a la canción usando el siguiente ejemplo general: ReferenciaApellido, N. (año). Título de la canción [Canción]."
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "Metodo cientifico",
-      "text": "Al aplicar el método científico en formato APA, comienza con un título conciso. En la introducción, presenta el problema de investigación y su relevancia. En el método, detalla el diseño, participantes y materiales. Los resultados deben ser claros y concisos, seguidos de una discusión que interprete los hallazgos. Finalmente, incluye una lista de referencias en el formato adecuado."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    }
-  ],
+
   "Testimonials": [
     {
       "text": "La IA comienza con grandes volúmenes de datos que le proporcionan ejemplos variados.",
@@ -126,12 +61,20 @@
       "name": "Optimización"
     },
     {
-      "text": "Repite el proceso, minimizando errores para mejorar la precisión de sus predicciones.",
-      "name": "Generalización"
+      "text": " Eliminar o imputar valores faltantes, corregir errores y eliminar duplicados.",
+      "name": "Limpieza"
     },
     {
       "text": "Realiza tareas como clasificar, recomendar o generar contenido, basándose en lo que ha aprendido.",
       "name": "Aplicación"
+    },
+    {
+      "text": "El modelo aprende a través de recompensas y castigos obtenidos por interacciones con un entorno.",
+      "name": "Refuerzo"
+    },
+    {
+      "text": "Ajustar los datos para que tengan un rango o una distribución similar, lo cual facilita el entrenamiento del modelo.",
+      "name": "Estandarización"
     }
   ],
   "Team": [
